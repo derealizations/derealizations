@@ -1,5 +1,5 @@
 <br/>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=derealizations&show_icons=true&theme=dracula" width="300" height="600" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=derealizations&show_icons=true&theme=dracula" width="400" height="700" />
 <br/>
 <h2 align="center">
     Interests - FLAK
@@ -18,5 +18,5 @@
 - **FOSS**
 - **Bug Bounties**
 <br/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derealizations&layout=donut" width="300" height="200" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derealizations&layout=donut" width="400" height="400" />
 <br/>
