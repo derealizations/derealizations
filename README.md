@@ -1,11 +1,10 @@
 <br/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derealizations&layout=donut" width="400" height="300" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derealizations&layout=donut" width="400" height="300" />
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=derealizations&show_icons=true&theme=dracula" width="300" height="600" />
 <br/>
 <h2 align="center">
     Interests:
 </h2>
-
 - ****
 - **Cybersecurity**
 - **Linux**
@@ -20,5 +19,3 @@
 - **Bug Bounties**
 <br/>
 <br/>
-
-![FLAK - Image](https://source.unsplash.com/random/800x400?sweden)
