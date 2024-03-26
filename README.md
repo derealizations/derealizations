@@ -18,5 +18,4 @@
 - **FOSS**
 - **Bug Bounties**
 <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derealizations&layout=donut" width="400" height="400" />
 <br/>
