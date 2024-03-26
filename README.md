@@ -2,7 +2,7 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=derealizations&show_icons=true&theme=dracula" width="300" height="600" />
 <br/>
 <h2 align="center">
-    Interests:
+    Interests - FLAK
 </h2>
 
 - ****
