@@ -1,4 +1,3 @@
-<img src="https://github.com/derealizations/NTmon"/>
 <br/>
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=derealizations&show_icons=true&theme=dracula" width="400" height="700" />
 <br/>
