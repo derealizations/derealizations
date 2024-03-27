@@ -10,7 +10,7 @@
 - **Python**
 - **PHP**
 - **SQL**
-- **Golang**
+- **Rust**
 - **Julia**
 - **Privacy**
 - **FOSS**
